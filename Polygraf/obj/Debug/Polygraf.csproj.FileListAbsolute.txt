@@ -1,0 +1,25 @@
+C:\Users\Acer\Desktop\ВУЗ\ЛАБЫ\7 семестр\ТИПИС\Соня\Polygraf\bin\Debug\Polygraf.exe.config
+C:\Users\Acer\Desktop\ВУЗ\ЛАБЫ\7 семестр\ТИПИС\Соня\Polygraf\bin\Debug\Polygraf.exe
+C:\Users\Acer\Desktop\ВУЗ\ЛАБЫ\7 семестр\ТИПИС\Соня\Polygraf\bin\Debug\Polygraf.pdb
+C:\Users\Acer\Desktop\ВУЗ\ЛАБЫ\7 семестр\ТИПИС\Соня\Polygraf\obj\Debug\Polygraf.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\ВУЗ\ЛАБЫ\7 семестр\ТИПИС\Соня\Polygraf\obj\Debug\Polygraf.FormContract.resources
+C:\Users\Acer\Desktop\ВУЗ\ЛАБЫ\7 семестр\ТИПИС\Соня\Polygraf\obj\Debug\Polygraf.Properties.Resources.resources
+C:\Users\Acer\Desktop\ВУЗ\ЛАБЫ\7 семестр\ТИПИС\Соня\Polygraf\obj\Debug\Polygraf.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\ВУЗ\ЛАБЫ\7 семестр\ТИПИС\Соня\Polygraf\obj\Debug\Polygraf.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\ВУЗ\ЛАБЫ\7 семестр\ТИПИС\Соня\Polygraf\obj\Debug\Polygraf.exe
+C:\Users\Acer\Desktop\ВУЗ\ЛАБЫ\7 семестр\ТИПИС\Соня\Polygraf\obj\Debug\Polygraf.pdb
+C:\Users\Acer\Desktop\ВУЗ\ЛАБЫ\7 семестр\ТИПИС\Соня\Polygraf\obj\Debug\Polygraf.FormLog.resources
+C:\Users\Acer\Desktop\ВУЗ\ЛАБЫ\7 семестр\ТИПИС\Соня\Polygraf\obj\Debug\Polygraf.FormTechnicalCard.resources
+C:\Users\ASUS\Desktop\ВУУУУЗ\4 курс\1 семестр\МиСпиСит КУРСАЧ\Polygraf\bin\Debug\Polygraf.exe.config
+C:\Users\ASUS\Desktop\ВУУУУЗ\4 курс\1 семестр\МиСпиСит КУРСАЧ\Polygraf\bin\Debug\Polygraf.exe
+C:\Users\ASUS\Desktop\ВУУУУЗ\4 курс\1 семестр\МиСпиСит КУРСАЧ\Polygraf\bin\Debug\Polygraf.pdb
+C:\Users\ASUS\Desktop\ВУУУУЗ\4 курс\1 семестр\МиСпиСит КУРСАЧ\Polygraf\obj\Debug\Polygraf.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\ВУУУУЗ\4 курс\1 семестр\МиСпиСит КУРСАЧ\Polygraf\obj\Debug\Polygraf.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\ВУУУУЗ\4 курс\1 семестр\МиСпиСит КУРСАЧ\Polygraf\obj\Debug\Polygraf.FormContract.resources
+C:\Users\ASUS\Desktop\ВУУУУЗ\4 курс\1 семестр\МиСпиСит КУРСАЧ\Polygraf\obj\Debug\Polygraf.FormLog.resources
+C:\Users\ASUS\Desktop\ВУУУУЗ\4 курс\1 семестр\МиСпиСит КУРСАЧ\Polygraf\obj\Debug\Polygraf.FormTechnicalCard.resources
+C:\Users\ASUS\Desktop\ВУУУУЗ\4 курс\1 семестр\МиСпиСит КУРСАЧ\Polygraf\obj\Debug\Polygraf.Properties.Resources.resources
+C:\Users\ASUS\Desktop\ВУУУУЗ\4 курс\1 семестр\МиСпиСит КУРСАЧ\Polygraf\obj\Debug\Polygraf.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\ВУУУУЗ\4 курс\1 семестр\МиСпиСит КУРСАЧ\Polygraf\obj\Debug\Polygraf.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ВУУУУЗ\4 курс\1 семестр\МиСпиСит КУРСАЧ\Polygraf\obj\Debug\Polygraf.exe
+C:\Users\ASUS\Desktop\ВУУУУЗ\4 курс\1 семестр\МиСпиСит КУРСАЧ\Polygraf\obj\Debug\Polygraf.pdb
